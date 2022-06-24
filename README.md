@@ -127,3 +127,7 @@ File: UPX v3.91 (Windows Executable)
  |     Original C |       11 |    877.58 ms |
  
  While BrotliSharpLib performs comparatively at lower quality levels, it performs up to three times worse at level 11. Future versions of the port will hopefully bring this down.
+ 
+ ## Credits:
+
+The original author of the script is [master131](https://github.com/master131 "master131").
